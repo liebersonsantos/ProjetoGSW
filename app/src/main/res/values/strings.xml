@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projeto GSW</string>
+    <string name="repositories_not_found">Repositorio não encontrado</string>
+    <string name="action_settings">Configurações</string>
+</resources>
